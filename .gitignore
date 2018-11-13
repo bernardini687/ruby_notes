@@ -1,2 +1,4 @@
 .DS_store
-
+ternary_operator.rb
+nested_if_respond_to.rb
+default_parameters.rb
