@@ -6,8 +6,11 @@ As I'm on the quest of learning Ruby&mdash;for the time being mainly from [this 
 |---------|-------------------------|
 |*Part 1* | Basics                  |
 |*Part 2* | Blocks                  |
-|*Part 3* | Strings                 |
+|*Part 3* | Strings I               |
 |*Part 4* | Methods and conditionals|
 |*Part 5* | Conditionals            |
 |*Part 6* | Ranges                  |
-|*Part 7* | Arrays                  |
+|*Part 7* | Arrays I                |
+|*Part 8* | Arrays II               |
+
+
