@@ -17,3 +17,12 @@ p num_range
 num_arr = num_range.to_a
 p num_arr
 # => [4, 5, 6, 7, 8, 9]
+
+darlin = {
+  bass: "Bangalter",
+  guitar: "de Homem-Christo",
+  drums: "Brancowitz"
+}
+
+p darlin.to_a
+# => [[:bass, "Bangalter"], [:guitar, "de Homem-Christo"], [:drums, "Brancowitz"]]

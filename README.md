@@ -11,3 +11,8 @@ As I'm on the quest of learning Ruby&mdash;for the time being mainly from [this 
 |*Part 5* | Conditionals            |
 |*Part 6* | Ranges                  |
 |*Part 7* | Arrays                  |
+|*Part 8* | Arrays II               |
+|*Part 9* | -                       |
+|*Part 10*| -                       |
+|*Part 11*| -                       |
+|*Part 12*| Hashes II               |
