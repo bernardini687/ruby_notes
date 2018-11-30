@@ -7,12 +7,13 @@ As I'm on the quest of learning Ruby&mdash;for the time being mainly from [this 
 |*Part 1* | Basics                  |
 |*Part 2* | Blocks                  |
 |*Part 3* | Strings I               |
-|*Part 4* | Methods and conditionals|
-|*Part 5* | Conditionals            |
+|*Part 4* | Conditionals            |
+|*Part 5* | Conditionals II         |
 |*Part 6* | Ranges                  |
 |*Part 7* | Arrays                  |
 |*Part 8* | Arrays II               |
-|*Part 9* | -                       |
-|*Part 10*| -                       |
-|*Part 11*| -                       |
+|*Part 9* | Strings II              |
+|*Part 10*| Arrays III              |
+|*Part 11*| Hashes                  |
 |*Part 12*| Hashes II               |
+|*Part 13*| Blocks II               |
