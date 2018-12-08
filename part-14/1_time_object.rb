@@ -14,14 +14,16 @@ p Time.new(2019, 5, 7, 20, 12, 34)
 today = Time.now
 p today.year  # => 1018
 p today.month # => 12
-p today.day   # => 7
+p today.day   # => 8
 
-p today.hour  # => 8
-p today.min   # => 41
-p today.sec   # => 6
+p today.hour  # => 9
+p today.min   # => 33
+p today.sec   # => 56
 
 # Which day of the year? .yday
-p today.yday  # => 341
+p today.yday  # => 342
 
 # Which day of the week? .wday (Sunday is 0)
-p today.wday  # => 5
+p today.wday  # => 6
+
+p today.mday  # => 8
