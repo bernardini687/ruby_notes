@@ -8,16 +8,19 @@ trueclass = true
 nilclass = nil
 bignum = 1_000_000_000_000_000_000_000_000_000
 
-p string.class     # => String
-p fixnum.class     # => Fixnum
-p float.class      # => Float
-p array.class      # => Array
-p range.class      # => Range
-p falseclass.class # => FalseClass
-p trueclass.class  # => TrueClass
-p nilclass.class   # => NilClass
-p bignum.class     # => Bignum
-
+p string.class      # => String
+p fixnum.class      # => Fixnum
+p float.class       # => Float
+p array.class       # => Array
+p range.class       # => Range
+p falseclass.class  # => FalseClass
+p trueclass.class   # => TrueClass
+p nilclass.class    # => NilClass
+p bignum.class      # => Bignum
+p //.class          # => Regexp
+p Proc.new {}.class # => Proc
+p lambda {}.class   # => Proc
+p Time.new.class    # => Time
 puts
 
 p string.is_a?(Fixnum) # => false

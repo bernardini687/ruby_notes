@@ -1,4 +1,4 @@
-# The '.' is a wildcar, a jolly
+# The '.' is a wildcard, a jolly
 
 oasis = "Today is gonna be the day
 That they're gonna throw it back to you

@@ -19,7 +19,7 @@ puts "hello".gsub('l', 'g')       # => heggo
 number = "123 456 7890"
 puts number.gsub(' ', '') # => 1234567890
 
-# => Its possible to pass a Regex rather than a String as the first argument
+# => Its possible to pass a Regexp rather than a String as the first argument
 
 number2 = "(123)-456 7890"
 puts number2.gsub(/[-\s\(\)]/, '')
