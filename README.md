@@ -20,3 +20,4 @@ I'm currently following [this tutorial](https://www.udemy.com/learn-to-code-with
 |*Part 14*| Time object             |
 |*Part 15*| File I/O                |
 |*Part 16*| Regex                   |
+|*Part 17*| Classes I               |
