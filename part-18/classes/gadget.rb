@@ -1,26 +1,17 @@
 # Generally you want one file per class and filename == ClassName
 
 class Gadget
-  # This is an empty class but it inherits from its superclasses
+  def initialize
+    @user = "User #{rand(1..100)}"
+    @key = "****"
+    @serial = "#{("a".."z").to_a.sample}-#{rand(100..999)}"
+  end
 end
 
-p Gadget.superclass              # => Object
-p Gadget.superclass.superclass   # => BasicObject
-
 phone = Gadget.new
+p phone
+#<Gadget:0x007f9eee969580 @user="User 16", @key="****", @serial="o-513">
+
 laptop = Gadget.new
-smartwatch = Gadget.new
-
-p String.new                     # => ""
-p String.new "Bravo"             # => "Bravo"
-
-p phone                          # => #<Gadget:0x007fb68c169cf8>
-p laptop                         # => #<Gadget:0x007fb68c169cd0>
-p smartwatch                     # => #<Gadget:0x007fb68c169ca8>
-
-p phone.is_a? Gadget             # => true
-p phone.is_a? Object             # => true
-p phone.is_a? BasicObject        # => true
-
-p laptop.respond_to? :nil?       # => true
-p smartwatch.respond_to? :length # => false
+p laptop
+#<Gadget:0x007f9eee968bf8 @user="User 50", @key="****", @serial="v-244">
