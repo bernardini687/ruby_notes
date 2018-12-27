@@ -46,5 +46,5 @@ p phone.methods - Object.methods # => [:info]
 p phone.to_s # => "Miao"
 # => "#<Gadget:0x007fc7be968ad8>" (This would be the default .to_s)
 
-p phone.user # =>
-p laptop.serial # => 
+p phone.user    # => "User 22"
+p laptop.serial # => "b-386"
