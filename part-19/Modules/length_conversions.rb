@@ -1,3 +1,5 @@
+# A module is a toolkit, it groups methods and constants
+
 module LengthConversions
 
   WEBSITE =  "https://www.angelo.edu"
