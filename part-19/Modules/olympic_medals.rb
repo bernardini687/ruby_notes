@@ -13,7 +13,7 @@ class OlympicMedal
     @weight = weight
   end
 
-  # We need to tell Ruby how to compare the objects of this class
+  # We need to tell Ruby HOW to compare the objects of this class
 
   def <=> other
     if MEDAL_VALUES[material] < MEDAL_VALUES[other.material]
