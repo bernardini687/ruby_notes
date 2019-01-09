@@ -6,7 +6,7 @@ I'm currently following [this tutorial](https://www.udemy.com/learn-to-code-with
 |---------|-------------------------|
 |*Part 1* | Basics                  |
 |*Part 2* | Blocks                  |
-|*Part 3* | Strings I               |
+|*Part 3* | Strings                 |
 |*Part 4* | Conditionals            |
 |*Part 5* | Conditionals II         |
 |*Part 6* | Ranges                  |
@@ -20,6 +20,7 @@ I'm currently following [this tutorial](https://www.udemy.com/learn-to-code-with
 |*Part 14*| Time object             |
 |*Part 15*| File I/O                |
 |*Part 16*| Regex                   |
-|*Part 17*| Classes I               |
+|*Part 17*| Classes                 |
 |*Part 18*| Classes II              |
 |*Part 19*| Modules                 |
+|*Part 20*| Classes III             |
