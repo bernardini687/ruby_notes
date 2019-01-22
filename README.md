@@ -1,6 +1,6 @@
 # Notes I take while learning Ruby
 
-I'm currently following [this tutorial](https://www.udemy.com/learn-to-code-with-ruby-lang/) by [Boris Paskhaver](https://github.com/paskhaver).
+I've rigorously followed [this tutorial](https://www.udemy.com/learn-to-code-with-ruby-lang/) by [Boris Paskhaver](https://github.com/paskhaver).
 
 |Folder   |Content                  |
 |---------|-------------------------|
