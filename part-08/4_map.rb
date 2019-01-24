@@ -30,8 +30,8 @@ p cube(challenge)
 
 secret_messages = ["uryyb", "Trg", "Puvpxra"]
 
-def rot13(secret_messages)
-  secret_messages.map do |string|
+def rot13(arr)
+  arr.map do |string|
     string.tr('A-Za-z', 'N-ZA-Mn-za-m')
   end
 end
