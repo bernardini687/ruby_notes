@@ -25,3 +25,15 @@ def cube(arr)
 end
 #
 p cube(challenge)
+
+# ROT13
+
+secret_messages = ["uryyb", "Trg", "Puvpxra"]
+
+def rot13(secret_messages)
+  secret_messages.map do |string|
+    string.tr('A-Za-z', 'N-ZA-Mn-za-m')
+  end
+end
+
+p rot13(secret_messages) # => ["hello", "Get", "Chicken"]
