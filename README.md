@@ -7,7 +7,7 @@ I've rigorously followed [this tutorial](https://www.udemy.com/learn-to-code-wit
 |*Part 1* | Basics                  |
 |*Part 2* | Blocks                  |
 |*Part 3* | Strings                 |
-|*Part 4* | Conditionals            |
+|*Part 4* | Methods & conditionals  |
 |*Part 5* | Conditionals II         |
 |*Part 6* | Ranges                  |
 |*Part 7* | Arrays                  |
